@@ -2,6 +2,20 @@
 Hi, I am **Gagandeep Singh**, a passionate Computer Science student from 🇮🇳 India.  
 I love exploring new technologies, building creative projects, and turning ideas into reality with code.
 
+I am a second-year B.Tech student specializing in Information Technology with a strong passion for technology
+and innovation. With a keen interest in exploring the ever-evolving tech landscape, I aim to build a career 
+that merges creativity and technical expertise.
+
+As a Python enthusiast, I have developed a solid foundation in programming, software development, and data 
+structures. My academic journey has been enriched by hands-on projects and collaborative experiences, with 
+a particular focus on Python's versatility for building solutions in domains like artificial intelligence 
+and cloud computing.
+
+Looking ahead, I aspire to contribute to impactful technological advancements by leveraging my Python 
+expertise to create innovative solutions that address real-world challenges. I believe in continuous 
+learning and am eager to engage with opportunities that allow me to grow, collaborate, and make a meaningful
+difference in the tech world.
+
 ---
 
 ## 🌐 Socials:
