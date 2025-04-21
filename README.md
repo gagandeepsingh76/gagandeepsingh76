@@ -75,8 +75,10 @@ I love exploring new technologies, building creative projects, and turning ideas
 ---
 
 ## 📈 GitHub Stats:
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gagandeepsingh76&theme=default" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh76&" alt="gagandeepsingh76" /></p>
 
 
 ---
