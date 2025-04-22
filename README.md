@@ -45,7 +45,7 @@ difference in the tech world.
 
 ## 📈 GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gagandeepsingh76&theme=default" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh76&theme=default" alt="GitHub Streak" />
 </p>
 
 
