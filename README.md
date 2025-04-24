@@ -43,10 +43,7 @@ difference in the tech world.
 
 ---
 
-## 📈 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagandeepsingh76&theme=default" alt="GitHub Streak" />
-</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gagandeepsingh76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
