@@ -47,3 +47,24 @@
 
 > 💡 *“Code is the closest thing we have to a superpower.”*  
 > 🧠 *Keep learning, keep building, and stay curious!*
+# Contribution Snake — GitHub-style heatmap with a moving snake
+
+This repository contains a generated **animated GIF** that mimics the GitHub contribution grid and shows a snake moving across the squares — a fun visual effect you can embed in your profile README.
+
+### How to use
+1. Add `contrib_snake.gif` (download from this folder) to your repository root.
+2. In your `README.md`, add the following line where you want the animation to appear:
+
+```markdown
+![Contribution Snake](./contrib_snake.gif)
+```
+
+### Files included
+- `contrib_snake.gif` — animated GIF (size: 2999.4 KB)
+- `README_snake.md` — this file
+
+---
+
+*Tip:* GitHub caches images; if you update the GIF, it may take a few minutes to show the new version.
+
+Enjoy! — Gagandeep Singh
