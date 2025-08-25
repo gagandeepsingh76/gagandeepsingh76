@@ -1,111 +1,49 @@
-<!--
-Professional GitHub Profile README
-Place this file in a repository named: <your-username>/<your-username>
-Edit the placeholders (YOUR-USERNAME, YOUR-LINKEDIN, YOUR-EMAIL, Resume link, and project links).
--->
+### 👋 Hi, I'm Gagandeep Singh 
 
-<h1 align="center">Gagandeep Singh <br/><small>Software Engineer in Training · Machine Learning & Cloud · Open Source Contributor</small></h1>
+- 🎓 Chairperson, IEEE PSIT Student Branch | Computer Science Enthusiast  
+- 💻 Passionate about open-source, AI/ML, and full-stack development  
+- 🌱 Currently exploring Data Structures, Algorithms, and Cloud Computing  
+- 🚀 Love building projects that create real-world impact  
+- ✨ Strong interest in research, innovation, and leadership
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME"><img alt="profile" src="https://github.com/YOUR-USERNAME.png" width="120" style="border-radius:50%" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:YOUR-EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-your.email%40domain.com-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://github.com/YOUR-USERNAME/YOUR-RESUME"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-green?style=flat-square&logo=adobe"/></a>
-</p>
 
 ---
 
-## 👋 About Me
+## 🌐 Connect with Me:
 
-I am a results-driven **IT engineering student** and aspiring software engineer with a focus on **machine learning**, **computer vision**, and **cloud-native applications**. I build production-minded models and full-stack tools that solve real problems. I enjoy collaborating on open-source projects and turning research prototypes into reliable systems.
-
-**Currently:** Training ML models, working on image classification projects (diabetic eye dataset) and deploying experiments in Colab/Cloud.
-
----
-
-## 🧭 Core Strengths
-
-* **Machine Learning / Deep Learning:** Model design, training pipelines, evaluation (confusion matrix, ROC, AUC), transfer learning (MobileNet, ResNet), Keras/TensorFlow.
-* **Software Development:** Python, C++, JavaScript, REST APIs, testing and CI workflows.
-* **Cloud & DevOps:** Containerization, basic GCP/AWS concepts, reproducible Colab->Cloud deployments.
-* **Collaboration & Communication:** Code reviews, documentation, mentoring classmates.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gagandeep1278)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Gagansingh23454321/)
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack:
 
-<p>
-  <!-- Languages & Tools as badges -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🔍 Highlight Projects
-
-> Short, crisp descriptions — include links to repositories and a one-line outcome.
-
-* **Diabetic Eye Classification** — *End-to-end image-classification pipeline with MobileNetV2; includes data augmentation, ROC/AUC evaluation and TensorBoard logging.*
-  📁 `github.com/YOUR-USERNAME/diabetic-eye-classifier` • Tech: Python, TensorFlow, Keras, Colab
-
-* **Real-time Object Detector (PoC)** — *Lightweight detector optimized for edge devices; exportable to TensorFlow Lite.*
-  📁 `github.com/YOUR-USERNAME/edge-detector` • Tech: PyTorch, OpenCV, TFLite
-
-* **Portfolio Website (React + Netlify)** — *Personal portfolio showcasing projects, blog posts and contact form.*
-  📁 `github.com/YOUR-USERNAME/portfolio` • Tech: React, Netlify
-
-> *Tip: Pin these repositories to your GitHub profile so visitors see them instantly.*
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## 🔄 Open Source & Contributions
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gagandeepsingh76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gagandeepsingh76&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsingh76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* Actively contribute to: `Awesome-ML-Resources`, `DL-Toolkit` (example repos — replace with real ones)
-* PRs: bug fixes, documentation improvements, and small feature additions
+---
+[![](https://visitcount.itsvg.in/api?id=gagandeepsingh76&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
-
-## 🧾 Selected Achievements
-
-* **1st Place** — College Hackathon 2024 (Medical Imaging Track).
-* **Top 5** — Regional Coding Competition.
-* Published a short tutorial on model evaluation metrics (blog link).
-
----
-
-## 📫 Contact & Resume
-
-* Email: `your.email@domain.com`
-* LinkedIn: `https://linkedin.com/in/YOUR-LINKEDIN`
-* Resume: `https://github.com/YOUR-USERNAME/YOUR-RESUME` (or link to PDF)
-
----
-
-## 🎯 How to Use / Personalize
-
-1. Replace all `YOUR-USERNAME`, `YOUR-LINKEDIN`, `YOUR-EMAIL`, and repository links with your actual values.
-2. Add or remove badges in the Tech Stack section to fit your expertise.
-3. Pin the Highlight Projects in your GitHub profile for better visibility.
-
----
-
-<p align="center">Made with ❤️ • <strong>Gagandeep Singh</strong></p>
+> 💡 *“Code is the closest thing we have to a superpower.”*  
+> 🧠 *Keep learning, keep building, and stay curious!*
