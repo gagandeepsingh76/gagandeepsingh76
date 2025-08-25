@@ -1,66 +1,111 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Dhruv Tripathi</h1>
-<h3 align="center">💻 IT Engineering Student | 🚀 Tech Enthusiast | 🌱 Lifelong Learner</h3>
+<!--
+Professional GitHub Profile README
+Place this file in a repository named: <your-username>/<your-username>
+Edit the placeholders (YOUR-USERNAME, YOUR-LINKEDIN, YOUR-EMAIL, Resume link, and project links).
+-->
 
-<!-- Typing Animation -->
+<h1 align="center">Gagandeep Singh <br/><small>Software Engineer in Training · Machine Learning & Cloud · Open Source Contributor</small></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Passionate+Developer;AI+%26+ML+Explorer;Open+Source+Contributor;Tech+Lover+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/YOUR-USERNAME"><img alt="profile" src="https://github.com/YOUR-USERNAME.png" width="120" style="border-radius:50%" /></a>
 </p>
 
----
-
-### 🌟 About Me
-- 🎓 I’m an **IT Engineering Student** passionate about **AI, ML, and Software Development**  
-- 💡 I love building **creative projects**, learning new **technologies**, and sharing knowledge  
-- 🌱 Currently exploring **Deep Learning & Cloud Technologies**  
-- ✨ Fun fact: *I believe debugging is an art* 🛠️  
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Tools:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-
-**Databases & Cloud:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="streak" height="170" />
+  <a href="https://github.com/YOUR-USERNAME"><img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:YOUR-EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-your.email%40domain.com-red?style=flat-square&logo=gmail"/></a>
+  <a href="https://github.com/YOUR-USERNAME/YOUR-RESUME"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-green?style=flat-square&logo=adobe"/></a>
 </p>
 
 ---
 
-### 🚀 Top Projects
-- 🔹 [Project 1](https://github.com/YOUR-USERNAME/Project1) - *Short description here*  
-- 🔹 [Project 2](https://github.com/YOUR-USERNAME/Project2) - *Short description here*  
-- 🔹 [Project 3](https://github.com/YOUR-USERNAME/Project3) - *Short description here*  
+## 👋 About Me
+
+I am a results-driven **IT engineering student** and aspiring software engineer with a focus on **machine learning**, **computer vision**, and **cloud-native applications**. I build production-minded models and full-stack tools that solve real problems. I enjoy collaborating on open-source projects and turning research prototypes into reliable systems.
+
+**Currently:** Training ML models, working on image classification projects (diabetic eye dataset) and deploying experiments in Colab/Cloud.
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-USERNAME" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+## 🧭 Core Strengths
+
+* **Machine Learning / Deep Learning:** Model design, training pipelines, evaluation (confusion matrix, ROC, AUC), transfer learning (MobileNet, ResNet), Keras/TensorFlow.
+* **Software Development:** Python, C++, JavaScript, REST APIs, testing and CI workflows.
+* **Cloud & DevOps:** Containerization, basic GCP/AWS concepts, reproducible Colab->Cloud deployments.
+* **Collaboration & Communication:** Code reviews, documentation, mentoring classmates.
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <!-- Languages & Tools as badges -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+## 🔍 Highlight Projects
+
+> Short, crisp descriptions — include links to repositories and a one-line outcome.
+
+* **Diabetic Eye Classification** — *End-to-end image-classification pipeline with MobileNetV2; includes data augmentation, ROC/AUC evaluation and TensorBoard logging.*
+  📁 `github.com/YOUR-USERNAME/diabetic-eye-classifier` • Tech: Python, TensorFlow, Keras, Colab
+
+* **Real-time Object Detector (PoC)** — *Lightweight detector optimized for edge devices; exportable to TensorFlow Lite.*
+  📁 `github.com/YOUR-USERNAME/edge-detector` • Tech: PyTorch, OpenCV, TFLite
+
+* **Portfolio Website (React + Netlify)** — *Personal portfolio showcasing projects, blog posts and contact form.*
+  📁 `github.com/YOUR-USERNAME/portfolio` • Tech: React, Netlify
+
+> *Tip: Pin these repositories to your GitHub profile so visitors see them instantly.*
+
+---
+
+## 🔄 Open Source & Contributions
+
+* Actively contribute to: `Awesome-ML-Resources`, `DL-Toolkit` (example repos — replace with real ones)
+* PRs: bug fixes, documentation improvements, and small feature additions
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+## 🧾 Selected Achievements
+
+* **1st Place** — College Hackathon 2024 (Medical Imaging Track).
+* **Top 5** — Regional Coding Competition.
+* Published a short tutorial on model evaluation metrics (blog link).
+
+---
+
+## 📫 Contact & Resume
+
+* Email: `your.email@domain.com`
+* LinkedIn: `https://linkedin.com/in/YOUR-LINKEDIN`
+* Resume: `https://github.com/YOUR-USERNAME/YOUR-RESUME` (or link to PDF)
+
+---
+
+## 🎯 How to Use / Personalize
+
+1. Replace all `YOUR-USERNAME`, `YOUR-LINKEDIN`, `YOUR-EMAIL`, and repository links with your actual values.
+2. Add or remove badges in the Tech Stack section to fit your expertise.
+3. Pin the Highlight Projects in your GitHub profile for better visibility.
+
+---
+
+<p align="center">Made with ❤️ • <strong>Gagandeep Singh</strong></p>
