@@ -73,9 +73,7 @@ B.Tech Information Technology Student passionate about building **AI systems, de
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gagandeepsingh76/gagandeepsingh76/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+<img src="https://profile-readme-generator.com/assets/snake.svg" />
 
 ---
 
